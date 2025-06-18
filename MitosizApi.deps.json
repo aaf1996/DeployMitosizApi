@@ -466,6 +466,9 @@
         }
       },
       "Mitosiz.Entities/1.0.0": {
+        "dependencies": {
+          "Mitosiz.CrossCutting": "1.0.0"
+        },
         "runtime": {
           "Mitosiz.Entities.dll": {}
         }
