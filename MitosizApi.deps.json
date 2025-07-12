@@ -441,7 +441,10 @@
           "System.Data.SqlClient": "4.7.0"
         },
         "runtime": {
-          "Mitosiz.CrossCutting.dll": {}
+          "Mitosiz.CrossCutting.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Mitosiz.Data/1.0.0": {
@@ -450,7 +453,10 @@
           "Mitosiz.Entities": "1.0.0"
         },
         "runtime": {
-          "Mitosiz.Data.dll": {}
+          "Mitosiz.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Mitosiz.Domain/1.0.0": {
@@ -462,7 +468,10 @@
           "System.IdentityModel.Tokens.Jwt": "7.3.1"
         },
         "runtime": {
-          "Mitosiz.Domain.dll": {}
+          "Mitosiz.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Mitosiz.Entities/1.0.0": {
@@ -470,7 +479,10 @@
           "Mitosiz.CrossCutting": "1.0.0"
         },
         "runtime": {
-          "Mitosiz.Entities.dll": {}
+          "Mitosiz.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
